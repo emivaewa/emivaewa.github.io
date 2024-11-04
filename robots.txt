@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emivaewa.github.io/ChF/sitemap_index.txt
+Sitemap: https://emivaewa.github.io/DtA/sitemap_index.txt
+Sitemap: https://emivaewa.github.io/RmY/sitemap_index.txt
+Sitemap: https://emivaewa.github.io/qEs/sitemap_index.txt
